@@ -1,4 +1,6 @@
-## 🍃 Fern ADK
+<img width="200px" src="https://github.com/user-attachments/assets/1d586286-fb06-46a1-9c4e-ed633e0adec0">
+
+![GitHub License](https://img.shields.io/github/license/retr0cube/fern-adk?style=plastic&label=License)
 
 Add-on development kit for Fern, currently in development. 
 
